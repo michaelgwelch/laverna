@@ -30,6 +30,7 @@ git clone git@github.com:Laverna/laverna.git
 ```
 #### 2. Install dependencies:
 
+    cd laverna
     npm install && bower install
 
 #### 3. Build minified version:
